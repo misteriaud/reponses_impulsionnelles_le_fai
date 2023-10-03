@@ -1,5 +1,5 @@
 # Présentation du lieu
-Depuis 2021 **Le Vidéobus** (association d'éducation à l'image) intervient chaque été au sein de la [ferme du Faï](http://www.villagesdesjeunes.org/noslieuxdaccueil/lefai/) pour accompagner des jeunes à réaliser leurs court-métrages.
+Depuis 2021 [**Le Vidéobus**](https://www.levideobus.fr/) (association d'éducation à l'image) intervient chaque été au sein de [**La ferme du Faï**](http://www.villagesdesjeunes.org/noslieuxdaccueil/lefai/) pour accompagner des jeunes à réaliser leurs court-métrages.
 
 Cette ferme, situé au cœur d’un cirque de moyenne montagne dans les Alpes, présente des particularités acoustiques exceptionnelles:
 
@@ -19,7 +19,7 @@ Dans le but de répondre à ces questions et d'accompagner au mieux les futurs p
 Afin de pouvoir simuler le son du lieu à posteriori sur ordinateur, l'un de nos objectifs était d'enregistrer les empreintes sonores de sa réverberation.
 Cela va permettre aussi bien de pouvoir préecouter et s'imaginer ce qu'un son va rendre en diffusion réelle dans les trompes, mais aussi post-processer les film pour pouvoir les diffuser n'importe où.
 
-Ces empreintes sont appelées **réponses impulsionnelles**, elle représente la réponse du lieu ou d'un effet audio à une très courte impulsion audio.
+Ces empreintes sont appelées [**réponses impulsionnelles**](https://fr.wikipedia.org/wiki/R%C3%A9ponse_impulsionnelle), elle représente la réponse du lieu ou d'un effet audio à une très courte impulsion audio.
 
 ## Détails du protocole
 
@@ -37,10 +37,10 @@ Ces réponses impulsionnelles (**IR** ou **Impulse Response** en anglais) peuven
 	- rycote ...
 - carte son Focusrite 2i4 (24b-48kHz)
 - Ableton Live 11
-	- plugin IR Measurement tools (HissTools IRCAM)
+	- plugin IR Measurement tools ([HissTools](https://research.hud.ac.uk/institutes-centres/cerenem/projects/thehisstools/))
 
 ### Format
-Les IR sont enregistrées au format **wave PCM** à la fréquence d'échantillonnage **48 kHz** et à l'échelle de quantification **24 bits**.
+Les IR sont enregistrées au format **AIFF** à la fréquence d'échantillonnage **48 kHz** et à l'échelle de quantification **24 bits**.
 ***
 
 ### Description des IR
